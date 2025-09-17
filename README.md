@@ -19,3 +19,6 @@ link [SQL](https://leetcode.com/list/o2qifkts)
 link [Grind 75](https://leetcode.com/list/rab78cw1)
 ### Grind 169
 link [Grind 169](https://leetcode.com/list/rabvlt31)
+## Discussion 
+[first](https://leetcode.com/discuss/post/623011/a-guide-for-dummies-like-me-by-hbkaye-n1dy/)
+[second](https://leetcode.com/discuss/post/2900390/data-structures-and-algorithms-roadmap-2-yek8/)
